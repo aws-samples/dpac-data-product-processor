@@ -5,7 +5,7 @@ boto3==1.18.34
 botocore
 wheel==0.38.1
 pyyaml==5.4.1
-pydantic==1.10.10
+pydantic==1.10.13
 quinn
 boto3-stubs[glue]==1.18.34
 mypy-boto3-glue==1.18.34
